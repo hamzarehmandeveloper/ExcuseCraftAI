@@ -8,7 +8,6 @@ An AI-powered excuse generator built with Next.js and LangGraph.
 - Customize excuse detail level (simple, detailed, elaborate)
 - Save and manage your generated excuses
 - Copy excuses to clipboard with one click
-- Modern, responsive UI
 
 ## Tech Stack
 
@@ -40,7 +39,4 @@ ANTHROPIC_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-
 
